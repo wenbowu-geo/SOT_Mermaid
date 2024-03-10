@@ -1,0 +1,6 @@
+1. Download ISC catalog and save it as data/ISC_catalog.txt.
+2. Put the names of selected floats into file data/floats.txt. 
+3. python determine_windows.py. Adjust parameters in determine_windows.py as needed. Currently, 
+   the requested time window is 70 second before and 170 second after the predicted T-wave arrival time.
+   The list of requested time windows for each float is saved in results/request_window.txt. The ray path maps are
+   waved in results/raypath_figure/.

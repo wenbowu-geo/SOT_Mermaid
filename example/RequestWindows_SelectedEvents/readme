@@ -1,0 +1,8 @@
+1. Download ISC catalog, select the target events and save it as data/ISC_catalog.txt. The strategy used here is to 
+   select good events as fllowing, (a) first do the workflow described here using the full ISC catalog to produce 
+   ray path maps for each event, then (b) based on the maps and T-wave at RAR to select the good events.
+2. Put the names of selected floats into file data/floats.txt. 
+3. python determine_windows.py. adjust the parameters in determine_windows.py as needed. Currently, 
+   the requested time window is 70 second before and 170 second after the predicted T-wave arrival time.
+   The list of requested time windows for each float is saved in results/request_window.txt. The ray path maps are
+   waved in results/raypath_figure/.

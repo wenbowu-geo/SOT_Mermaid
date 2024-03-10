@@ -1,0 +1,66 @@
+International Seismological Centre
+ISC: Event catalogue
+Any use of data from the ISC should be cited. The correct format for citations may be found on our citation page.
+
+Once the search has completed, a compressed KML file will be available to view the results in Google Earth.
+
+Sorry a problem has occured with the map.
+Search summary:
+Database: ISC Bulletin
+Search type: Polygon search
+Coordinates: 17.193,165.938,-64.826,165.234,-65.417,-59.766,23.130,-53.438,17.193,165.938
+Start date: 2023-02-28 00:00:00
+End date: 2024-03-01 00:00:00
+Origin depth >= 0 and <= 50
+NEIC Magnitude >= 5 and <= 6
+Events found: 387
+Date of search: Fri Mar 1 19:04:55 2024 GMT
+Agencies whose data contributed towards the results of this search are listed at the bottom of the page.
+
+Please note:
+Data on or after 2022/03/01 have not been reviewed by the ISC.
+
+DATA_TYPE EVENT_CATALOGUE
+ISC Bulletin
+----EVENT-----|-----------------------ORIGIN (PRIME HYPOCENTRE)----------------|------MAGNITUDES-----...
+  EVENTID,TYPE,AUTHOR   ,DATE      ,TIME       ,LAT     ,LON      ,DEPTH,DEPFIX,AUTHOR   ,TYPE  ,MAG
+625957553,ke  ,IDC      ,2023-04-12,00:43:42.46,-32.7760,-178.8538,  0.0,TRUE  ,NEIC     ,mb    , 5.0
+636690391,se  ,IDC      ,2024-02-01,18:14:39.69,-15.1797,-173.4632,  0.0,TRUE  ,NEIC     ,M     , 5.0
+636583606,ke  ,IDC      ,2024-01-18,16:13:34.74,-15.3511,-173.2947,  0.0,TRUE  ,NEIC     ,M     , 5.0
+636405228,se  ,PTWC     ,2024-01-09,07:53:20   ,-20.9000,-173.5000, 10.0,      ,NEIC     ,M     , 5.7
+636369777,ke  ,IDC      ,2023-12-24,02:22:16.77,-22.6958,-175.7884, 37.8,      ,NEIC     ,M     , 5.3
+626328895,ke  ,NEIC     ,2023-06-23,19:06:16.02,-15.1566,-172.9883, 35.0,      ,NEIC     ,mb    , 5.4,NEIC     ,Ms_20 , 5.2,NEIC     ,Mww   , 5.4
+636469185,se  ,IDC      ,2024-01-15,21:57:01.27,-30.5666,-178.0638, 46.3,      ,NEIC     ,M     , 5.1
+635629678,se  ,NEIC     ,2023-09-15,13:02:25.39,-30.1101,-177.7841, 36.7,      ,NEIC     ,mb    , 5.1,
+626339134,ke  ,NEIC     ,2023-07-04,00:18:08.10,-23.7007,-175.7538, 10.0,TRUE  ,NEIC     ,mb    , 5.3,NEIC     ,Mww   , 5.3,
+626338798,se  ,NEIC     ,2023-07-03,17:26:27.08,-23.9581,-175.5970, 15.6,      ,NEIC     ,mb    , 5.1,
+635837541,ke  ,NEIC     ,2023-06-25,08:26:32.47,-24.0746,-175.7088, 10.0,TRUE  ,NEIC     ,mb    , 5.2,NEIC     ,Ms_20 , 5.7,
+626326820,se  ,NEIC     ,2023-06-22,07:36:53.97,-24.5361,-175.7791, 10.0,TRUE  ,NEIC     ,mb    , 5.2,
+626326808,ke  ,IDC      ,2023-06-22,02:13:24.63,-23.6571,-175.9002,  0.0,TRUE  ,NEIC     ,mb    , 5.0
+626316957,ke  ,IDC      ,2023-06-20,03:45:36.55,-23.9256,-175.6531,  0.0,TRUE  ,NEIC     ,mb    , 5.2,NEIC     ,Mww   , 5.1
+626317990,ke  ,NEIC     ,2023-06-20,15:41:46.33,-23.8496,-175.6400, 22.1,      ,NEIC     ,mb    , 5.2,NEIC     ,Ms_20 , 5.1,NEIC     ,Mww   , 5.2
+626312957,ke  ,NEIC     ,2023-06-18,15:04:50.81,-23.8159,-175.9282, 10.0,TRUE  ,NEIC     ,mb    , 5.6,NEIC     ,Ms_20 , 5.9,NEIC     ,Mww   , 5.9
+626312953,se  ,NEIC     ,2023-06-18,14:29:36.58,-23.9629,-175.8514, 10.0,TRUE  ,NEIC     ,mb    , 5.3,NEIC     ,Ms_20 , 5.7,NEIC     ,mb    , 5.1,NEIC     ,Mww   , 5.7
+626046354,ke  ,IDC      ,2023-04-23,02:28:38.78,-20.8564,-173.9178,  0.0,TRUE  ,NEIC     ,mb    , 5.1
+636160753,se  ,IDC      ,2023-12-07,19:12:21.41,-31.1005,-178.2465, 48.7,      ,NEIC     ,M     , 5.2
+626588362,se  ,IDC      ,2023-08-01,20:42:11.60,-32.6623,-178.6092,  0.0,TRUE  ,NEIC     ,mb    , 5.0
+636454025,ke  ,GFZ      ,2024-01-07,18:06:14.54,-62.4900, 165.3280, 10.0,TRUE  ,NEIC     ,M     , 5.7
+635746085,se  ,NEIC     ,2023-10-11,03:54:56.19,-63.7692, 172.3039, 10.0,TRUE  ,NEIC     ,mb    , 5.5,NEIC     ,Ms_20 , 5.3,NEIC     ,Mww   , 5.7,
+636060527,se  ,NEIC     ,2023-11-24,19:26:03.40, 19.8673,-109.2911, 10.0,TRUE  ,NEIC     ,Mww   , 5.5
+626072504,ke  ,NEIC     ,2023-05-01,05:18:11.05, -6.0963, -81.4112, 10.0,TRUE  ,NEIC     ,mb    , 5.0,
+625947916,se  ,NEIC     ,2023-04-06,06:39:05.99, 11.6432, -85.7772, 10.0,TRUE  ,NEIC     ,Mww   , 5.1
+635884227,se  ,NEIC     ,2023-11-06,13:51:10.75,-33.0743, -71.9579, 30.9,      ,NEIC     ,mb    , 5.4,NEIC     ,Mww   , 5.1
+626227454,ke  ,NEIC     ,2023-05-30,16:51:35.37,-20.7038, -70.6344, 24.6,      ,NEIC     ,mb    , 5.4,NEIC     ,Mww   , 5.5,NEIC     ,Mwr   , 5.3
+636371955,se  ,IDC      ,2023-12-27,21:33:18.45,-52.8633,-118.1779,  0.0,TRUE  ,NEIC     ,M     , 5.7
+636543657,se  ,IDC      ,2024-01-17,21:34:09.34,-28.9052, -93.7146,  0.0,TRUE  ,NEIC     ,M     , 5.1
+636156460,se  ,IDC      ,2023-12-07,01:17:39.31,-35.6182,-104.7595,  0.0,TRUE  ,NEIC     ,M     , 5.8
+626046320,se  ,NEIC     ,2023-04-22,16:17:42.56,-35.2895,-104.3709, 10.0,TRUE  ,NEIC     ,Ms_20 , 5.0,NEIC     ,Mww   , 5.5,NEIC     ,Mwb   , 5.6
+635700423,se  ,NEIC     ,2023-09-20,14:45:56.34, -4.5869,-105.6088, 10.0,TRUE  ,NEIC     ,mb    , 5.5,NEIC     ,Ms_20 , 5.8,NEIC     ,mb    , 5.2,NEIC     ,Mww   , 5.9,NEIC     ,Mwb   , 5.9
+626738497,se  ,IDC      ,2023-09-07,05:00:59.76,-55.3201,-128.2265,  0.0,TRUE  ,NEIC     ,mb    , 5.1
+626738496,se  ,IDC      ,2023-09-07,04:49:24.14,-55.4193,-128.4224,  0.0,TRUE  ,NEIC     ,mb    , 5.1,NEIC     ,Mww   , 5.3
+626529609,se  ,IDC      ,2023-07-07,03:39:21.16,-55.0002,-129.9011,  0.0,TRUE  ,NEIC     ,mb    , 5.0
+626095578,ke  ,NEIC     ,2023-05-08,06:02:15.75,-56.0344,-121.4114, 10.0,TRUE  ,NEIC     ,mb    , 5.4,NEIC     ,Ms_20 , 5.6,NEIC     ,Mwb   , 5.8,NEIC     ,Mww   , 5.9
+626048837,ke  ,NEIC     ,2023-04-25,11:12:24.94,-41.3592, -86.1327, 10.0,TRUE  ,NEIC     ,mb    , 5.3,NEIC     ,Ms_20 , 5.0,NEIC     ,Mww   , 5.6,NEIC     ,Mwb   , 5.6
+636465124,se  ,IDC      ,2023-09-27,17:37:40.10,-54.4758,-136.5351,  0.0,TRUE  ,NEIC     ,Ms_20 , 5.3,NEIC     ,Mww   , 5.6,NEIC     ,Mwb   , 5.6
+635898778,se ,NEIC ,2023-11-19,04:42:37.02,-15.3755,-173.0606, 10.0,TRUE ,NEIC ,mb , 4.6,
+635704161,se ,IDC ,2023-09-19,00:27:46.10,-22.4598,-174.5144, 0.0,TRUE ,NEIC ,mb , 4.7
