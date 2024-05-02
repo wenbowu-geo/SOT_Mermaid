@@ -38,10 +38,11 @@ time_windows = requested_time_windows(speed,DTbefore,DTafter,floats_list_file,
 # Save the requested time windows
 file_request_window = 'results/request_window.txt'
 with open(file_request_window, 'w') as file_request_window_handle:
+    file_request_window_handle.write('Float TimeBegin TimeStop eq_id\n')
     for float_key, timestamp_list in time_windows.items():
-        for tstart, tend in timestamp_list:
-            file_request_window_handle.write('{} {} {}\n'.format(
+        for tstart, tend, ieq in timestamp_list:
+            file_request_window_handle.write('{} {} {} {}\n'.format(
                 float_key,
                 tstart.strftime('%Y-%m-%dT%H:%M:%S'),
-                tend.strftime('%Y-%m-%dT%H:%M:%S')
+                tend.strftime('%Y-%m-%dT%H:%M:%S'),ieq
             ))

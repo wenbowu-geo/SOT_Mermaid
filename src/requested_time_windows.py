@@ -29,9 +29,10 @@ def requested_time_windows(speed,DTbefore,DTafter,floats_list_file,eq_catalog_fi
 
     Returns:
     :return dict request_windows: Dictionary to save the requested time windows. Its structure is like
-                                   request_windows['P0010'][ieq][0:1], where the key 'P0010' is the float name,
+                                   request_windows['P0010'][ieq][0:2], where the key 'P0010' is the float name,
                                    the index 'ieq' is the ith earthquake, and the last dimension corresponds to
-                                   start datetime and end datetime of the requested window.
+                                   start datetime and end datetime of the requested window and the equauake's index 
+                                   in the catalog.
 
     Usage:
     requested_time_windows = requested_time_windows(1.5, 70.0, 170.0, 'data/floats.txt', 'data/ISC_catalog.txt',
@@ -123,7 +124,7 @@ def requested_time_windows(speed,DTbefore,DTafter,floats_list_file,eq_catalog_fi
             print()
             # Save the requsted time windows
             if window_fully_in_data_section:
-                 windows_this_float.append([tstart,tend])
+                 windows_this_float.append([tstart,tend,ieq])
         # Add this float's data availability and requested time window lists to the corresponding dictionaries.
         data_missing[float_key] = data_missing_this_float
         request_windows[float_key] = windows_this_float
