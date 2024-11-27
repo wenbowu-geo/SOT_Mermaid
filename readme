@@ -1,1 +1,7 @@
 -To run the scripts under example/case/, add src to your python path.
+-The package relies on the Acoustic Toolbox Kraken to compute T-wave modes (src/KRAKEN_mode_func.m). Kraken is maintained by oalib.
+ To use this package, download the Acoustic Toolbox source files (named "at") from http://oalib.hlsresearch.com/AcousticsToolbox/ (if this link changes, refer to the latest address on the oalib website). Once downloaded, add at/bin to your $PATH. Also add at/ to matlab path (In matlab, use addpath(genpath('/Users/wenbowu/work/mytools/at/')); savepath). This ensures that KRAKEN_mode_func.m can locate and execute Kraken.
+ Additionally, some scripts in the at/Matlab/Plot directory (e.g., at/Matlab/Plot/plotmode.m) are useful for visualizing results and understanding the structure of mode files.
+ For additional details, the Kraken manual can be accessed at at/doc/kraken.htm within the downloaded package.
+ 
+
