@@ -7,11 +7,13 @@ dir_ECCO="../../data/ECCO/"
 output_dir="results/"
 mkdir -p ${output_dir}
 rm -f ${output_dir}/average1D_VpRhoTS.txt	
-rm -f ${output_dir}/mode_1_2.50Hz.txt	
+rm -f ${output_dir}/mode_1_*Hz.txt	
 rm -f ${output_dir}/tomo_acoustic.txt
 
-# Define an array of frequencies for mode computations.
-freqs=(2.5 5.0 7.5 10.0)
+#Lower half-space structure
+Vp_lowerhalf=5800.0
+Vs_lowerhalf=1000.0
+Rho_lowerhalf=2.6
 
 # Initialize pair counter
 ipair=0
@@ -53,7 +55,7 @@ tail -n +2 ${file_sta} | while IFS=" " read -r sta lat_rec lon_rec dep_rec evl_r
 
     # Append the final part of Twave_example.env
     echo "'A' 0.0" >> ${output_dir}/Twave_example.env
-    echo "$max_dep 5800.0 3360.0 2.6 /" >> ${output_dir}/Twave_example.env
+    echo "$max_dep $Vp_lowerhalf $Vs_lowerhalf $Rho_lowerhalf /" >> ${output_dir}/Twave_example.env
     echo '1300 2000' >> ${output_dir}/Twave_example.env
     echo '0' >> ${output_dir}/Twave_example.env
     echo '1' >> ${output_dir}/Twave_example.env

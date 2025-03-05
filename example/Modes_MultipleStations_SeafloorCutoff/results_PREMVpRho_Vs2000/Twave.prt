@@ -1,0 +1,1885 @@
+ _________________________________________________
+
+ KRAKENC-Twave                                                                   
+ Frequency =   10.00    Hz   NMedia =   1
+
+
+     N2-LINEAR approximation to SSP
+     Attenuation units: dB/mkHz
+     VACUUM
+
+
+   z (m)     alphaR (m/s)     betaR   rho (g/cm^3)  alphaI     betaI
+
+
+          ( Number of pts =  2000  RMS roughness =   0.00     )
+      0.00      1541.09      0.00     1.00       0.0000    0.0000
+     10.00      1541.23      0.00     1.00       0.0000    0.0000
+     20.00      1541.33      0.00     1.00       0.0000    0.0000
+     30.00      1541.30      0.00     1.00       0.0000    0.0000
+     40.00      1541.11      0.00     1.00       0.0000    0.0000
+     50.00      1540.82      0.00     1.00       0.0000    0.0000
+     60.00      1540.49      0.00     1.00       0.0000    0.0000
+     70.00      1540.13      0.00     1.00       0.0000    0.0000
+     80.00      1539.71      0.00     1.00       0.0000    0.0000
+     90.00      1539.19      0.00     1.00       0.0000    0.0000
+    100.00      1538.50      0.00     1.00       0.0000    0.0000
+    110.00      1537.55      0.00     1.00       0.0000    0.0000
+    120.00      1536.32      0.00     1.00       0.0000    0.0000
+    130.00      1534.85      0.00     1.00       0.0000    0.0000
+    140.00      1533.23      0.00     1.00       0.0000    0.0000
+    150.00      1531.53      0.00     1.00       0.0000    0.0000
+    160.00      1529.85      0.00     1.00       0.0000    0.0000
+    170.00      1528.19      0.00     1.00       0.0000    0.0000
+    180.00      1526.60      0.00     1.00       0.0000    0.0000
+    190.00      1525.04      0.00     1.00       0.0000    0.0000
+    200.00      1523.53      0.00     1.00       0.0000    0.0000
+    210.00      1522.08      0.00     1.00       0.0000    0.0000
+    220.00      1520.62      0.00     1.00       0.0000    0.0000
+    230.00      1519.23      0.00     1.00       0.0000    0.0000
+    240.00      1517.86      0.00     1.00       0.0000    0.0000
+    250.00      1516.49      0.00     1.00       0.0000    0.0000
+    260.00      1515.13      0.00     1.00       0.0000    0.0000
+    270.00      1513.81      0.00     1.00       0.0000    0.0000
+    280.00      1512.48      0.00     1.00       0.0000    0.0000
+    290.00      1511.16      0.00     1.00       0.0000    0.0000
+    300.00      1509.83      0.00     1.00       0.0000    0.0000
+    310.00      1508.57      0.00     1.00       0.0000    0.0000
+    320.00      1507.31      0.00     1.00       0.0000    0.0000
+    330.00      1506.05      0.00     1.00       0.0000    0.0000
+    340.00      1504.79      0.00     1.00       0.0000    0.0000
+    350.00      1503.53      0.00     1.00       0.0000    0.0000
+    360.00      1502.41      0.00     1.00       0.0000    0.0000
+    370.00      1501.29      0.00     1.00       0.0000    0.0000
+    380.00      1500.17      0.00     1.00       0.0000    0.0000
+    390.00      1499.05      0.00     1.00       0.0000    0.0000
+    400.00      1497.93      0.00     1.00       0.0000    0.0000
+    410.00      1496.82      0.00     1.00       0.0000    0.0000
+    420.00      1495.94      0.00     1.00       0.0000    0.0000
+    430.00      1495.06      0.00     1.00       0.0000    0.0000
+    440.00      1494.19      0.00     1.00       0.0000    0.0000
+    450.00      1493.31      0.00     1.00       0.0000    0.0000
+    460.00      1492.43      0.00     1.00       0.0000    0.0000
+    470.00      1491.56      0.00     1.00       0.0000    0.0000
+    480.00      1490.76      0.00     1.00       0.0000    0.0000
+    490.00      1490.18      0.00     1.00       0.0000    0.0000
+    500.00      1489.61      0.00     1.00       0.0000    0.0000
+    510.00      1489.04      0.00     1.00       0.0000    0.0000
+    520.00      1488.47      0.00     1.00       0.0000    0.0000
+    530.00      1487.90      0.00     1.00       0.0000    0.0000
+    540.00      1487.33      0.00     1.00       0.0000    0.0000
+    550.00      1486.76      0.00     1.00       0.0000    0.0000
+    560.00      1486.39      0.00     1.00       0.0000    0.0000
+    570.00      1486.10      0.00     1.00       0.0000    0.0000
+    580.00      1485.80      0.00     1.00       0.0000    0.0000
+    590.00      1485.51      0.00     1.00       0.0000    0.0000
+    600.00      1485.22      0.00     1.00       0.0000    0.0000
+    610.00      1484.93      0.00     1.00       0.0000    0.0000
+    620.00      1484.64      0.00     1.00       0.0000    0.0000
+    630.00      1484.35      0.00     1.00       0.0000    0.0000
+    640.00      1484.15      0.00     1.00       0.0000    0.0000
+    650.00      1484.03      0.00     1.00       0.0000    0.0000
+    660.00      1483.92      0.00     1.00       0.0000    0.0000
+    670.00      1483.80      0.00     1.00       0.0000    0.0000
+    680.00      1483.68      0.00     1.00       0.0000    0.0000
+    690.00      1483.57      0.00     1.00       0.0000    0.0000
+    700.00      1483.45      0.00     1.00       0.0000    0.0000
+    710.00      1483.34      0.00     1.00       0.0000    0.0000
+    720.00      1483.22      0.00     1.00       0.0000    0.0000
+    730.00      1483.17      0.00     1.00       0.0000    0.0000
+    740.00      1483.13      0.00     1.00       0.0000    0.0000
+    750.00      1483.09      0.00     1.00       0.0000    0.0000
+    760.00      1483.05      0.00     1.00       0.0000    0.0000
+    770.00      1483.01      0.00     1.00       0.0000    0.0000
+    780.00      1482.97      0.00     1.00       0.0000    0.0000
+    790.00      1482.93      0.00     1.00       0.0000    0.0000
+    800.00      1482.90      0.00     1.00       0.0000    0.0000
+    810.00      1482.86      0.00     1.00       0.0000    0.0000
+    820.00      1482.84      0.00     1.00       0.0000    0.0000
+    830.00      1482.83      0.00     1.00       0.0000    0.0000
+    840.00      1482.82      0.00     1.00       0.0000    0.0000
+    850.00      1482.82      0.00     1.00       0.0000    0.0000
+    860.00      1482.81      0.00     1.00       0.0000    0.0000
+    870.00      1482.81      0.00     1.00       0.0000    0.0000
+    880.00      1482.80      0.00     1.00       0.0000    0.0000
+    890.00      1482.79      0.00     1.00       0.0000    0.0000
+    900.00      1482.79      0.00     1.00       0.0000    0.0000
+    910.00      1482.78      0.00     1.00       0.0000    0.0000
+    920.00      1482.80      0.00     1.00       0.0000    0.0000
+    930.00      1482.81      0.00     1.00       0.0000    0.0000
+    940.00      1482.83      0.00     1.00       0.0000    0.0000
+    950.00      1482.84      0.00     1.00       0.0000    0.0000
+    960.00      1482.86      0.00     1.00       0.0000    0.0000
+    970.00      1482.87      0.00     1.00       0.0000    0.0000
+    980.00      1482.89      0.00     1.00       0.0000    0.0000
+    990.00      1482.90      0.00     1.00       0.0000    0.0000
+   1000.00      1482.92      0.00     1.00       0.0000    0.0000
+   1010.00      1482.94      0.00     1.00       0.0000    0.0000
+   1020.00      1482.97      0.00     1.00       0.0000    0.0000
+   1030.00      1483.00      0.00     1.00       0.0000    0.0000
+   1040.00      1483.03      0.00     1.00       0.0000    0.0000
+   1050.00      1483.06      0.00     1.00       0.0000    0.0000
+   1060.00      1483.09      0.00     1.00       0.0000    0.0000
+   1070.00      1483.13      0.00     1.00       0.0000    0.0000
+   1080.00      1483.16      0.00     1.00       0.0000    0.0000
+   1090.00      1483.19      0.00     1.00       0.0000    0.0000
+   1100.00      1483.22      0.00     1.00       0.0000    0.0000
+   1110.00      1483.26      0.00     1.00       0.0000    0.0000
+   1120.00      1483.30      0.00     1.00       0.0000    0.0000
+   1130.00      1483.35      0.00     1.00       0.0000    0.0000
+   1140.00      1483.39      0.00     1.00       0.0000    0.0000
+
+                                 ( RMS roughness =   0.00     )
+     ACOUSTO-ELASTIC half-space
+   1140.00      5800.00   2000.00     2.60       0.0000    0.0000
+
+ cLow = 1300.0    m/s      cHigh = 2000.0    m/s
+ RMax =    0.0000000000000000     
+
+ Number of sources   =            1
+ Source depths (m)
+   500.000    
+
+ Number of receivers =          400
+ Receiver depths (m)
+   0.00000       20.0501       40.1003       60.1504       80.2005    
+   100.251       120.301       140.351       160.401       180.451    
+   200.501       220.551       240.602       260.652       280.702    
+   300.752       320.802       340.852       360.902       380.952    
+   401.003    
+  ...    8000.00000    
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ Mesh multiplier   CPU seconds
+ Max. number of restarts in root finder, MaxTries =            1
+        1            0.192E-02s
+
+    I          k             alpha          Phase Speed       Group Speed
+    1  0.4331630473E-01   0.000000000       1450.535854       1705.462877    
+    2  0.4212281723E-01   0.000000000       1491.634634       1485.419279    
+    3  0.4158532060E-01   0.000000000       1510.914240       1483.618220    
+    4  0.4095028283E-01   0.000000000       1534.344789       1477.332562    
+    5  0.4021183309E-01   0.000000000       1562.521483       1461.070801    
+    6  0.3929752848E-01   0.000000000       1598.875438       1435.720243    
+    7  0.3817455321E-01   0.000000000       1645.909324       1407.288127    
+    8  0.3683461929E-01   0.000000000       1705.782611       1384.749226    
+    9  0.3529382143E-01   0.000000000       1780.250778       1398.324661    
+   10  0.3366146913E-01   0.000000000       1866.580832       1550.615318    
+   11  0.3211352665E-01   0.000000000       1956.554126       1665.211112    
+ _________________________________________________
+
+ End of environmental file
