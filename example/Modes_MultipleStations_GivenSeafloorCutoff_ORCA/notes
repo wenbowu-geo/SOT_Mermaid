@@ -1,0 +1,6 @@
+The ocean sound speed profile is truncated at the seafloor depth, which is specified in 
+the last column of data/loc_seafloor_cutoff.txt. 
+The underlying solid layer is modeled based on the PREM crustal structure.
+
+ORCA results are consistent with that by KRAKEN, but ORCA is better at dealing with
+elastic layers (i.e., more complex solid Earth layers are allowed).

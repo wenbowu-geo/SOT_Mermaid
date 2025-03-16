@@ -1,0 +1,8 @@
+The ocean sound speed profile is truncated at the seafloor depth, 
+determined as the shallower one between the filled ECCO and ETOPO1 datasets.
+The cutoff depth for both ECCO and ETOPO1 is determined by searching within an 
+extended range, using a specified distance (default: 50,000 m).
+The underlying solid layer is modeled based on the PREM crustal structure.
+
+ORCA results are consistent with that by KRAKEN, but ORCA is better at dealing with 
+elastic layers (i.e., more complex solid Earth layers are allowed).

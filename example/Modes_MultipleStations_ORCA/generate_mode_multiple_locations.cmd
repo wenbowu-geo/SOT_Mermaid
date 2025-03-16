@@ -3,6 +3,7 @@
 # Input files and directories
 file_sta="data/loc.txt"
 dir_ECCO="../../data/ECCO/"
+file_sta="data/loc_seafloor_cutoff.txt"
 output_dir="results/"
 
 # Ensure output directory exists and clean previous results
@@ -18,44 +19,55 @@ freq_max=10.0
 
 # Define sediment structure (depth, velocity, density)
 thickness_sedi=100.0  # m
-vp_sedi=5600.0        # m/s
+vp_sedi=5800.0        # m/s
 vs_sedi=3200.0        # m/s
 rho_sedi=2.6          # g/cm^3
 
 # Define lower half-space structure
-vp_lowerhalf=5600.1   # m/s 
+vp_lowerhalf=5800.1   # m/s 
 vs_lowerhalf=3200.1   # m/s
 rho_lowerhalf=2.61     # g/cm^3
+
+# Distance (in meters) to extend the path range north and south from each station
+path_extend_distance=50000.0 #unit of meter
+
+# Seafloor cutoff depth setting
+seafloor_cutoff_etopo1=True
+
+# If using ETOPO1, ensure the cutoff file is generated
+if [ "$seafloor_cutoff_etopo1" = False ]; then
+    echo "Using ETOPO1 for seafloor cutoff depth."
+    if [ ! -f "$file_sta" ]; then
+        echo "Error: $file_sta not found! Run cutoff depth extraction first."
+        exit 1
+    fi
+else
+    echo "Generating seafloor cutoff depth using ETOPO1..."
+    echo "Reading data/loc_Mermaid.txt to generate data/loc_seafloor_cutoff.txt"
+    python ../../src/cutoff_depth_etopo1.py --dir_etopo1 "../../data/Bahymetry/" --extend_m ${path_extend_distance}
+fi
+echo
 
 # Initialize pair counter
 ipair=0
 
-# Process each line in loc.txt, skipping the header
-tail -n +2 "${file_sta}" | while IFS=' ' read -ra line; do
-    # Ensure the line has enough columns
-    if [ "${#line[@]}" -lt 4 ]; then
-        echo "Skipping malformed line: ${line[*]}"
-        continue
-    fi
+# Loop over each line in loc.txt, skipping the header.
+tail -n +2 ${file_sta} | while IFS=" " read -r sta lat_rec lon_rec dep_rec evl_rec; do
+    # Increment the source coordinates for each pair (example adjustment).
+    lon_src=$(echo "$lon_rec + 0.0" | bc)
+    lat_src=$(echo "$lat_rec + 0.05" | bc)
+    echo ${lat_rec} ${evl_rec}
 
-    # Read station information
-    sta="${line[0]}"
-    lat_rec="${line[1]}"
-    lon_rec="${line[2]}"
-    dep_rec="${line[3]}"
-
-    # Adjust source location slightly (use awk for floating-point math)
-    lon_src=$(awk -v lon="$lon_rec" 'BEGIN { printf "%.6f", lon + 0.0 }')
-    lat_src=$(awk -v lat="$lat_rec" 'BEGIN { printf "%.6f", lat + 0.05 }')
-
-    # Increment pair counter
+    # Increment the pair counter
     ipair=$((ipair + 1))
     echo "Running pair $ipair: lon_src=$lon_src lat_src=$lat_src lon_rec=$lon_rec lat_rec=$lat_rec"
 
+    # Set the cutoff depth to the seafloor depth
+    dep_cutoff=$(echo "-1 * $evl_rec" | bc)
     #Run Python script to generate sound speed profile
     python ../../src/SoundSpeed_ECCO.py --psrc "$lon_src" "$lat_src" --prec "$lon_rec" "$lat_rec" \
-               --extend_m 50000.0 --path_dx_m 5000.0 \
-               --path_depth0_m 0.0 --path_depth1_m 8000.0 --path_ddepth_m 10.0 \
+               --extend_m ${path_extend_distance} --path_dx_m 5000.0 \
+               --path_depth0_m 0.0 --path_depth1_m ${dep_cutoff} --path_ddepth_m 10.0 \
                --meanST_exist True --year0_mean 1992 --year1_mean 1992 \
                --dir_ECCO "${dir_ECCO}" --output_dir "${output_dir}"
 
@@ -63,11 +75,8 @@ tail -n +2 "${file_sta}" | while IFS=' ' read -ra line; do
     pushd "${output_dir}" > /dev/null
 
     # Run MATLAB script with properly formatted arguments
-    #matlab -nodisplay -r "addpath('/Users/wenbowu/work/T_wave/Mermaid/SOT_Mermaid/src/'); \
-    #    DeepOcean_Modes(${nfreqs}, ${freq_min}, ${freq_max}, ${thickness_sedi}, \
-    #    ${vp_sedi}, ${vs_sedi}, ${rho_sedi}, ${vp_lowerhalf}, ${vs_lowerhalf}, ${rho_lowerhalf}); exit;"
     matlab -nodisplay -r "addpath('/Users/wenbowu/work/T_wave/Mermaid/SOT_Mermaid/src/'); \
-         DeepOcean_Modes(${nfreqs}, ${freq_min}, ${freq_max}, ${thickness_sedi}, \
+         ORCA_DeepOcean_Modes(${nfreqs}, ${freq_min}, ${freq_max}, ${thickness_sedi}, \
          ${vp_sedi}, ${vs_sedi}, ${rho_sedi}, ${vp_lowerhalf}, ${vs_lowerhalf}, ${rho_lowerhalf}); exit"
 
 
