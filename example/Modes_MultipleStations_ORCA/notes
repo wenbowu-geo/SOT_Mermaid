@@ -1,8 +1,9 @@
-The ocean sound speed profile is truncated at the seafloor depth, 
-determined as the shallower one between the filled ECCO and ETOPO1 datasets.
-The cutoff depth for both ECCO and ETOPO1 is determined by searching within an 
-extended range, using a specified distance (default: 50,000 m).
-The underlying solid layer is modeled based on the PREM crustal structure.
+1. The ocean sound speed profile is truncated at the seafloor depth, determined as the shallower value between the filled ECCO dataset and the "ELVE" depth specified in data/loc_seafloor_cutoff.txt.
+For ECCO, the cutoff depth is the deepest point along the N-S path, as SoundSpeed_ECCO.py computes the profile using np.nanmean(c_path, axis=0), with the last depth representing the deepest value.
+The "ELVE" depths for the hydrophones are shallower than the ECCO cutoff depths in this case.
+The length of the N-S path is user-specified (path_extend_distance in the bash script, default: 50,000 m).
 
-ORCA results are consistent with that by KRAKEN, but ORCA is better at dealing with 
+2. The underlying solid layer is modeled using the PREM crustal structure.
+
+3. ORCA results are consistent with that by KRAKEN, but ORCA is better at dealing with
 elastic layers (i.e., more complex solid Earth layers are allowed).

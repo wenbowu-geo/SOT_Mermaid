@@ -26,7 +26,7 @@ extend_deg = extend_m / 111320.0  # 1 degree latitude ≈ 111.32 km
 dir_etopo1 = args.dir_etopo1  
 etopo_file = dir_etopo1 + "/etopo5.grd"  
 
-sta_loc_file = "data/loc_Mermaid.txt"
+sta_loc_file = "data/loc_receiver.txt"
 loc_seafloor_cutoff_file = "data/loc_seafloor_cutoff.txt"
 
 # Read the first line (header)
@@ -74,7 +74,10 @@ for i in range(len(data)):
     depths = interpolator(query_points)
 
     # Store the deepest seafloor depth
-    depth_etopo1[i] = np.nanmin(depths)  
+    #depth_etopo1[i] = np.nanmin(depths)  
+
+    # Store the average seafloor depth over the extended north-south search range
+    depth_etopo1[i] = np.nanmean(depths)
 
 # Append "ELVE" to the header
 header = header + " ELVE"  

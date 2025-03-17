@@ -1,5 +1,6 @@
-The ocean sound speed profile is truncated at the seafloor depth, 
-determined as the shallower one between the filled ECCO and ETOPO1 datasets.
-The cutoff depth for both ECCO and ETOPO1 is determined by searching within an 
-extended range, using a specified distance (default: 50,000 m).
-The underlying solid layer is modeled based on the PREM crustal structure.
+1. The ocean sound speed profile is truncated at the seafloor depth, determined as the shallower value between the filled ECCO and ETOPO1 datasets.
+For ECCO, the cutoff depth is the deepest point along the N-S path, as SoundSpeed_ECCO.py computes the profile using np.nanmean(c_path, axis=0), with the last depth representing the deepest value.
+For ETOPO1, the cutoff depth is the average depth along the extended search range. As a result, in most cases, the computed modes terminate at the ETOP01 averaged depth.
+The length of the N-S path is user-specified ("path_extend_distance" in the bash script and default: 50,000 m).
+
+2. The underlying solid layer is modeled using the PREM crustal structure.

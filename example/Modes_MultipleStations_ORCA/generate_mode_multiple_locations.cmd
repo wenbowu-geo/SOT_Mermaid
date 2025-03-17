@@ -43,7 +43,7 @@ if [ "$seafloor_cutoff_etopo1" = False ]; then
     fi
 else
     echo "Generating seafloor cutoff depth using ETOPO1..."
-    echo "Reading data/loc_Mermaid.txt to generate data/loc_seafloor_cutoff.txt"
+    echo "Reading data/loc_receiver.txt to generate data/loc_seafloor_cutoff.txt"
     python ../../src/cutoff_depth_etopo1.py --dir_etopo1 "../../data/Bahymetry/" --extend_m ${path_extend_distance}
 fi
 echo

@@ -416,82 +416,10 @@
    4000.00      1523.02      0.00     1.00       0.0000    0.0000
    4010.00      1523.20      0.00     1.00       0.0000    0.0000
    4020.00      1523.37      0.00     1.00       0.0000    0.0000
-   4030.00      1523.55      0.00     1.00       0.0000    0.0000
-   4040.00      1523.72      0.00     1.00       0.0000    0.0000
-   4050.00      1523.90      0.00     1.00       0.0000    0.0000
-   4060.00      1524.07      0.00     1.00       0.0000    0.0000
-   4070.00      1524.25      0.00     1.00       0.0000    0.0000
-   4080.00      1524.42      0.00     1.00       0.0000    0.0000
-   4090.00      1524.60      0.00     1.00       0.0000    0.0000
-   4100.00      1524.77      0.00     1.00       0.0000    0.0000
-   4110.00      1524.95      0.00     1.00       0.0000    0.0000
-   4120.00      1525.13      0.00     1.00       0.0000    0.0000
-   4130.00      1525.30      0.00     1.00       0.0000    0.0000
-   4140.00      1525.48      0.00     1.00       0.0000    0.0000
-   4150.00      1525.65      0.00     1.00       0.0000    0.0000
-   4160.00      1525.83      0.00     1.00       0.0000    0.0000
-   4170.00      1526.00      0.00     1.00       0.0000    0.0000
-   4180.00      1526.18      0.00     1.00       0.0000    0.0000
-   4190.00      1526.35      0.00     1.00       0.0000    0.0000
-   4200.00      1526.53      0.00     1.00       0.0000    0.0000
-   4210.00      1526.70      0.00     1.00       0.0000    0.0000
-   4220.00      1526.88      0.00     1.00       0.0000    0.0000
-   4230.00      1527.05      0.00     1.00       0.0000    0.0000
-   4240.00      1527.23      0.00     1.00       0.0000    0.0000
-   4250.00      1527.40      0.00     1.00       0.0000    0.0000
-   4260.00      1527.58      0.00     1.00       0.0000    0.0000
-   4270.00      1527.75      0.00     1.00       0.0000    0.0000
-   4280.00      1527.93      0.00     1.00       0.0000    0.0000
-   4290.00      1528.10      0.00     1.00       0.0000    0.0000
-   4300.00      1528.28      0.00     1.00       0.0000    0.0000
-   4310.00      1528.45      0.00     1.00       0.0000    0.0000
-   4320.00      1528.63      0.00     1.00       0.0000    0.0000
-   4330.00      1528.80      0.00     1.00       0.0000    0.0000
-   4340.00      1528.98      0.00     1.00       0.0000    0.0000
-   4350.00      1529.15      0.00     1.00       0.0000    0.0000
-   4360.00      1529.33      0.00     1.00       0.0000    0.0000
-   4370.00      1529.51      0.00     1.00       0.0000    0.0000
-   4380.00      1529.68      0.00     1.00       0.0000    0.0000
-   4390.00      1529.86      0.00     1.00       0.0000    0.0000
-   4400.00      1530.03      0.00     1.00       0.0000    0.0000
-   4410.00      1530.21      0.00     1.00       0.0000    0.0000
-   4420.00      1530.38      0.00     1.00       0.0000    0.0000
-   4430.00      1530.56      0.00     1.00       0.0000    0.0000
-   4440.00      1530.73      0.00     1.00       0.0000    0.0000
-   4450.00      1530.91      0.00     1.00       0.0000    0.0000
-   4460.00      1531.08      0.00     1.00       0.0000    0.0000
-   4470.00      1531.26      0.00     1.00       0.0000    0.0000
-   4480.00      1531.43      0.00     1.00       0.0000    0.0000
-   4490.00      1531.61      0.00     1.00       0.0000    0.0000
-   4500.00      1531.78      0.00     1.00       0.0000    0.0000
-   4510.00      1531.96      0.00     1.00       0.0000    0.0000
-   4520.00      1532.13      0.00     1.00       0.0000    0.0000
-   4530.00      1532.31      0.00     1.00       0.0000    0.0000
-   4540.00      1532.48      0.00     1.00       0.0000    0.0000
-   4550.00      1532.66      0.00     1.00       0.0000    0.0000
-   4560.00      1532.83      0.00     1.00       0.0000    0.0000
-   4570.00      1533.01      0.00     1.00       0.0000    0.0000
-   4580.00      1533.19      0.00     1.00       0.0000    0.0000
-   4590.00      1533.36      0.00     1.00       0.0000    0.0000
-   4600.00      1533.54      0.00     1.00       0.0000    0.0000
-   4610.00      1533.71      0.00     1.00       0.0000    0.0000
-   4620.00      1533.89      0.00     1.00       0.0000    0.0000
-   4630.00      1534.06      0.00     1.00       0.0000    0.0000
-   4640.00      1534.24      0.00     1.00       0.0000    0.0000
-   4650.00      1534.42      0.00     1.00       0.0000    0.0000
-   4660.00      1534.61      0.00     1.00       0.0000    0.0000
-   4670.00      1534.79      0.00     1.00       0.0000    0.0000
-   4680.00      1534.98      0.00     1.00       0.0000    0.0000
-   4690.00      1535.16      0.00     1.00       0.0000    0.0000
-   4700.00      1535.35      0.00     1.00       0.0000    0.0000
-   4710.00      1535.53      0.00     1.00       0.0000    0.0000
-   4720.00      1535.72      0.00     1.00       0.0000    0.0000
-   4730.00      1535.90      0.00     1.00       0.0000    0.0000
-   4740.00      1536.09      0.00     1.00       0.0000    0.0000
 
                                  ( RMS roughness =   0.00     )
      ACOUSTO-ELASTIC half-space
-   4740.00      5800.00   3200.00     2.60       0.0000    0.0000
+   4020.00      5800.00   3200.00     2.60       0.0000    0.0000
 
  cLow = 1300.0    m/s      cHigh = 2000.0    m/s
  RMax =    0.0000000000000000     
@@ -1324,53 +1252,227 @@
  Receiver below the bottom bdry has been moved up
 
 
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
+ *** WARNING ***
+ Generated by program or subroutine: SdRdRMod
+ Receiver below the bottom bdry has been moved up
+
+
  Mesh multiplier   CPU seconds
  Max. number of restarts in root finder, MaxTries =            1
-        1            0.816E-02s
+        1            0.696E-02s
 
     I          k             alpha          Phase Speed       Group Speed
-    1  0.4230202915E-01   0.000000000       1485.315346       1482.677473    
-    2  0.4216713306E-01   0.000000000       1490.066991       1482.647845    
-    3  0.4202900803E-01   0.000000000       1494.963979       1482.838360    
-    4  0.4189422634E-01   0.000000000       1499.773562       1483.351690    
-    5  0.4176372784E-01   0.000000000       1504.459882       1483.995373    
-    6  0.4163761709E-01   0.000000000       1509.016545       1484.714224    
-    7  0.4151551535E-01   0.000000000       1513.454730       1485.480532    
-    8  0.4139705574E-01   0.000000000       1517.785551       1486.279947    
-    9  0.4128199490E-01   0.000000000       1522.015911       1487.313587    
-   10  0.4117347275E-01   0.000000000       1526.027534       1493.508605    
-   11  0.4110407357E-01   0.000000000       1528.604044       1521.695687    
-   12  0.4102728950E-01   0.000000000       1531.464882       1492.930126    
-   13  0.4090717136E-01   0.000000000       1535.961813       1482.111021    
-   14  0.4077222751E-01   0.000000000       1541.045386       1475.869989    
-   15  0.4062524061E-01   0.000000000       1546.621069       1469.799949    
-   16  0.4046643498E-01   0.000000000       1552.690596       1463.497570    
-   17  0.4029575076E-01   0.000000000       1559.267463       1456.857193    
-   18  0.4011306798E-01   0.000000000       1566.368673       1449.870450    
-   19  0.3991839596E-01   0.000000000       1574.007461       1442.484083    
-   20  0.3971139195E-01   0.000000000       1582.212307       1434.684025    
-   21  0.3949202371E-01   0.000000000       1591.001098       1426.481836    
-   22  0.3926000405E-01   0.000000000       1600.403632       1417.846825    
-   23  0.3901523208E-01   0.000000000       1610.444171       1408.785102    
-   24  0.3875737925E-01   0.000000000       1621.158455       1399.278628    
-   25  0.3848630646E-01   0.000000000       1632.576853       1389.317060    
-   26  0.3820165775E-01   0.000000000       1644.741532       1378.897061    
-   27  0.3790321011E-01   0.000000000       1657.692129       1367.990983    
-   28  0.3759062844E-01   0.000000000       1671.476527       1356.605098    
-   29  0.3726352852E-01   0.000000000       1686.148778       1344.709634    
-   30  0.3692162948E-01   0.000000000       1701.762732       1332.299728    
-   31  0.3656441757E-01   0.000000000       1718.387910       1319.358897    
-   32  0.3619151850E-01   0.000000000       1736.093308       1305.863251    
-   33  0.3580245561E-01   0.000000000       1754.959318       1291.809536    
-   34  0.3539664529E-01   0.000000000       1775.079321       1277.168878    
-   35  0.3497360417E-01   0.000000000       1796.550701       1261.919447    
-   36  0.3453264968E-01   0.000000000       1819.491225       1246.050914    
-   37  0.3407310635E-01   0.000000000       1844.030668       1229.529621    
-   38  0.3359425793E-01   0.000000000       1870.315254       1212.332636    
-   39  0.3309529435E-01   0.000000000       1898.513197       1194.439732    
-   40  0.3257524224E-01   0.000000000       1928.822282       1175.813661    
-   41  0.3203318189E-01   0.000000000       1961.461502       1156.428588    
-   42  0.3146796057E-01   0.000000000       1996.692888       1136.252997    
+    1  0.4230202896E-01   0.000000000       1485.315353       1482.677481    
+    2  0.4216713264E-01   0.000000000       1490.067006       1482.647859    
+    3  0.4202900726E-01   0.000000000       1494.964006       1482.838396    
+    4  0.4189422525E-01   0.000000000       1499.773601       1483.351803    
+    5  0.4176372973E-01   0.000000000       1504.459814       1483.999097    
+    6  0.4163774357E-01   0.000000000       1509.011961       1484.844377    
+    7  0.4151892277E-01   0.000000000       1513.330522       1489.216194    
+    8  0.4144227929E-01   0.000000000       1516.129280       1513.913336    
+    9  0.4136127273E-01   0.000000000       1519.098638       1490.308224    
+   10  0.4122946683E-01   0.000000000       1523.955023       1480.361436    
+   11  0.4107948595E-01   0.000000000       1529.518971       1474.395147    
+   12  0.4091451292E-01   0.000000000       1535.686205       1468.441939    
+   13  0.4073471829E-01   0.000000000       1542.464407       1462.087790    
+   14  0.4053992591E-01   0.000000000       1549.875873       1455.178960    
+   15  0.4032968797E-01   0.000000000       1557.955348       1447.641811    
+   16  0.4010349132E-01   0.000000000       1566.742720       1439.460694    
+   17  0.3986095151E-01   0.000000000       1576.275796       1430.635995    
+   18  0.3960151850E-01   0.000000000       1586.602116       1421.168112    
+   19  0.3932478144E-01   0.000000000       1597.767382       1411.089434    
+   20  0.3903044646E-01   0.000000000       1609.816407       1400.379422    
+   21  0.3871797002E-01   0.000000000       1622.808557       1389.037627    
+   22  0.3838703497E-01   0.000000000       1636.798808       1377.050498    
+   23  0.3803704392E-01   0.000000000       1651.859519       1364.400090    
+   24  0.3766759877E-01   0.000000000       1668.061016       1351.070635    
+   25  0.3727798889E-01   0.000000000       1685.494710       1337.040391    
+   26  0.3686772720E-01   0.000000000       1704.250787       1322.288461    
+   27  0.3643598248E-01   0.000000000       1724.445145       1306.791191    
+   28  0.3598213957E-01   0.000000000       1746.195580       1290.518343    
+   29  0.3550522458E-01   0.000000000       1769.650912       1273.448178    
+   30  0.3500440881E-01   0.000000000       1794.969697       1255.540588    
+   31  0.3447863336E-01   0.000000000       1822.341750       1236.770842    
+   32  0.3392675069E-01   0.000000000       1851.985581       1217.094468    
+   33  0.3334757287E-01   0.000000000       1884.150709       1196.471076    
+   34  0.3273956472E-01   0.000000000       1919.141370       1174.861225    
+   35  0.3210123245E-01   0.000000000       1957.303451       1152.212379    
+   36  0.3143073599E-01   0.000000000       1999.057645       1128.478839    
  _________________________________________________
 
  End of environmental file
